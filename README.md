@@ -10,7 +10,7 @@ This application contains the most important part of the full cinema management 
   *  New user registration via email
   *  User login and authentication
   *  Displaying all movies, cinema halls, movie sessions, user orders and tickets on it
-  *  Addiing movie to the database and get information about movies
+  *  Adding movie to the database and get information about movies
   *  Adding cinema hall to the database and get information about cinema halls
   *  Adding a movie session to the database and get information about available movie sessions
   *  Creating movie show tickets
@@ -37,7 +37,7 @@ The project uses following architecture:
 Must have: JDK (Intellij IDEA Ultimate, Eclipse e.t.c), Git, Apache Maven, MySQL or any other server and (optional) MySQL Workbench. Use guides and Google search for troubleshoot apps installation issues. 
 Configure inner logger, use log4j2.xml file from
 src/main/resources/
-Standart path to log file is 
+Standard path to log file is 
 logs/
 Maybe you need to change it to absolute path like "D:/Projects/cinema-application/logs/"
 Also You can change log messages and log levels for messages in your code.
